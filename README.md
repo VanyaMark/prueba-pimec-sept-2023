@@ -10,4 +10,4 @@ Todos los errores se arreglan añadiendo una regla CSS o modificando alguna prop
 
 ## BONUS
 
-Fíjate que al pasar el ratóm por encima del item de menú, este tarda un tiempo en cambiar de color, no es inmediato. Investiga como conseguir esto. [pista](https://www.w3schools.com/css/css3_transitions.asp)
+Fíjate que al pasar el ratón por encima del item de menú, este tarda un tiempo en cambiar de color, no es inmediato. Investiga como conseguir esto. [pista](https://www.w3schools.com/css/css3_transitions.asp)
