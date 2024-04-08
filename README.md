@@ -4,9 +4,9 @@ En este HTML/CSS hay 3 errores que impiden que la app Web se vea como espereamos
 
 Todos los errores se arreglan añadiendo una regla CSS o modificando alguna propiedad CSS existente.
 
-1. Al pasar el ratón por encima de cada item de menú, este no cambia a un fondo blanco. [pista](https://www.w3schools.com/cssref/sel_hover.php)
-2. Los items de menú no aparecen bien estilizados, aunque parece existir una regla CSS
-3. Los items del contenedor flex no están distribuidos de forma similar al mostrado en el vídeo
+1. Al pasar el ratón por encima de cada item de menú, este no cambia a un fondo blanco. [pista](https://www.w3schools.com/cssref/sel_hover.php) ✔✔✔ --> faltaba regla para a:hover
+2. Los items de menú no aparecen bien estilizados, aunque parece existir una regla CSS ✔✔✔ --> En vez de Class, se había escrito como ID (#)
+3. Los items del contenedor flex no están distribuidos de forma similar al mostrado en el vídeo ✔✔✔ --> En vez de justify-content, se había puesto align-items
 
 ## BONUS
 
